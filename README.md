@@ -39,4 +39,6 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=erdemaytekin&layout=compact">
 </details>
 
+![Ziyaretçi Sayısı](https://img.shields.io/badge/dynamic/json?url=https://komarev.com/ghpvc/?username=erdem-aytekin&label=Ziyaret%C3%A7i%20Say%C4%B1s%C4%B1&query=$.value&color=orange)
+
 
