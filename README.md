@@ -44,3 +44,7 @@
 ![](https://komarev.com/ghpvc/?username=erdem-aytekin&color=orange)
 
 
+<a target="_blank" rel="noopener noreferrer nofollow" href="https://raw.githubusercontent.com/avinash-218/avinash-218/output/github-contribution-grid-snake.svg"><img src="https://raw.githubusercontent.com/avinash-218/avinash-218/output/github-contribution-grid-snake.svg" alt="snake gif" style="max-width: 100%;"></a>
+
+
+<a href="https://github.com/erdemaytekin"><img src="https://camo.githubusercontent.com/888d3e7532b17611b725f04263169a924b5b93a0fdb65d1ba3b695696ca908c9/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d6a6179706176617369796126726f773d3126636f6c756d6e3d33267468656d653d616c676f6c6961" alt="erdemaytekin" data-canonical-src="https://github-profile-trophy.vercel.app/?username=erdemaytekin&amp;row=1&amp;column=3&amp;theme=algolia" style="max-width: 100%;"></a>
