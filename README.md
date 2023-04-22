@@ -6,7 +6,7 @@
 
  ## Frontend Developer
 
-<font color="orange">Coffe coffee is how I keep up with `<code />`
+<font color="orange"> I'm software developer
 </font>
 
 ### Reach out to me
